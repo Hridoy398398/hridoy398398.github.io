@@ -1,4 +1,4 @@
-const jsonURL = "https://script.google.com/macros/s/AKfycbyqbg6VIsqTqiyM57hWg_sGgkUkk9YNMiI0aEbFzaiwAs4FI1PtQIoZzbxv6QgTaUB7/exec";
+const jsonURL = "https://script.google.com/macros/s/AKfycbyrnf0zd8P7AgTlO5AOhzyUbGaYx6RRq-MgERO8ZfYYDSXcMtV7WirJxHiLArMfHlCw/exec";
 
 document.getElementById("searchBtn").addEventListener("click", function() {
     const siteCode = document.getElementById("searchBox").value.trim();
@@ -25,3 +25,4 @@ document.getElementById("searchBtn").addEventListener("click", function() {
           document.getElementById("result").innerHTML = `<div class="card error">Failed to fetch data</div>`;
       });
 });
+
