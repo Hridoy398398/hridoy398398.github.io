@@ -1,75 +1,50 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html>
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Sitefinder — by Hridoy Mahmudul</title>
-  <meta name="description" content="Search site finder by CSV input and features" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
-  <style>
-    :root{
-      --bg:#0b57d0;--bg2:#0f61f3;--ink:#0f172a;--muted:#475569;--card:#fff;
-      --radius:12px;--shadow:0 8px 20px rgba(2,8,23,.1)
-    }
-    *{box-sizing:border-box}
-    body{margin:0;font-family:Inter,system-ui;bg: #f8fafc;color:var(--ink);}
-    .container{width:min(1000px,90%);margin:40px auto}
-    h1{text-align:center; color:var(--bg2);}
-    .search-box{display:flex;justify-content:center;margin:20px 0;}
-    .search-box input{padding:10px;flex:1;max-width:300px;border:1px solid #ccc;border-radius:4px 0 0 4px;}
-    .search-box button{padding:10px 20px;border:none;background:var(--bg2);color:#fff;border-radius:0 4px 4px 0;cursor:pointer;}
-    .result-card{background:var(--card);border-radius:var(--radius);box-shadow:var(--shadow);
-                padding:20px;margin:20px 0;}
-    .features{margin-top:40px;}
-    .features h2{text-align:center;color:var(--bg2);}
-    .features .item{margin:12px 0;padding:12px; background:#fff;border-radius:var(--radius);box-shadow:var(--shadow);}
-  </style>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <title>Certificate Verification</title>
+    <style>
+        body { font-family: Arial; padding: 50px; background:#f2f2f2; }
+        input, button { padding:10px; margin:5px; }
+        #result { margin-top:20px; font-weight:bold; }
+    </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Sitefinder</h1>
-    <div class="search-box">
-      <input type="text" id="siteInput" placeholder="Site ID লিখুন…" />
-      <button id="searchBtn">Search</button>
-    </div>
+    <h2>Certificate Verification</h2>
+    <input type="text" id="certId" placeholder="Enter Certificate ID or scan QR">
+    <button onclick="verify()">Verify</button>
+
     <div id="result"></div>
 
-    <div class="features">
-      <h2>ফিচারসমূহ</h2>
-      <div class="item">⚡ সুপার দ্রুত—শুধুমাত্র HTML + CSS</div>
-      <div class="item">🧩 সহজ সম্পাদনা—ক্লিয়ার সেকশনগুলো কোডে</div>
-      <div class="item">🌐 </div>
-    </div>
-  </div>
+    <script>
+        async function verify() {
+            const certId = document.getElementById("certId").value.trim();
+            if(!certId) return alert("Please enter certificate ID!");
 
-  <script>
-    const csvURL = `https://raw.githubusercontent.com/Hridoy398398/hridoy398398.github.io/refs/heads/root/Site%20Finder%20-%20Cox's%20Bazar.csv`;
+            const resultDiv = document.getElementById("result");
+            resultDiv.innerHTML = "Checking...";
 
-    document.getElementById('searchBtn').addEventListener('click', () => {
-      const siteid = document.getElementById('siteInput').value.trim();
-      if (!siteid) return alert('Site ID লিখুন!');
-      fetch(csvURL)
-        .then(res => res.text())
-        .then(csv => {
-          const parsed = Papa.parse(csv, { header: true });
-          const row = parsed.data.find(r => r.siteid === siteid);
-          if (row) {
-            document.getElementById('result').innerHTML = `
-              <div class="result-card">
-                <h3>${row.siteid}</h3>
-                <pre>${JSON.stringify(row, null, 2)}</pre>
-              </div>`;
-          } else {
-            document.getElementById('result').innerHTML = `<div class="result-card">ওই siteid পাওয়া যায়নি.</div>`;
-          }
-        })
-        .catch(err => {
-          console.error(err);
-          document.getElementById('result').innerHTML = `<div class="result-card">Error fetching data.</div>`;
-        });
-    });
-  </script>
+            try {
+                const response = await fetch("https://raw.githubusercontent.com/username/repo/main/certificates.json");
+                const data = await response.json();
+
+                const cert = data.find(c => c.id.toUpperCase() === certId.toUpperCase());
+
+                if(cert){
+                    resultDiv.innerHTML = `
+                        ✅ Certificate Valid!<br>
+                        Name: ${cert.name}<br>
+                        Course: ${cert.course}<br>
+                        Date: ${cert.date}
+                    `;
+                } else {
+                    resultDiv.innerHTML = "❌ Certificate NOT found!";
+                }
+
+            } catch (e) {
+                resultDiv.innerHTML = "Error fetching certificate data.";
+                console.error(e);
+            }
+        }
+    </script>
 </body>
 </html>
-
