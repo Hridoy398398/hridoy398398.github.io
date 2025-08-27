@@ -1,0 +1,401 @@
+Site ID,Key Info,Location,Latitude,Longitude,Share ID,H-O/Type,H-O No/Priority,Thana,MSD Office
+CTG2573,Digital+Abloy(602),"Leda Bazar, Teknaf",20.97257,92.24804,CXTKN11,Indoor/GF,Gold P1,Teknaf,GPI Cox's Bazar
+CTG2988,Abloy(602)+ZTE+Star+SMU,"Unchiprang, Teknaf",21.09023,92.20817,CXTKN39,Outdoor/GF,Gold P1,Teknaf,GPI Cox's Bazar
+CTG2745,602+ZTE+Star+SMU,"Nilla Madrasha, Nilla bazar, Teknaf",21.012,92.2464,CXTKN48,Outdoor/GF,Gold P1,Teknaf,GPI Cox's Bazar
+CTG2746,Bluetooth+Abloy(602)+ZTE+Star+SMU,"South leda, Nilla, Teknaf",20.96203,92.2494,CXTKN44,Outdoor/GF,Gold P1,Teknaf,GPI Cox's Bazar
+CTG2438,Digital+Abloy(602)+ZTE,"Thainkali Bazar, Ukhiya, Teknaf",21.1693,92.15437,CXUKH21,Indoor/GFRT,Gold P1,Ukhiya,GPI Cox's Bazar
+CTG2987,Bluetooth+Abloy(602)+ZTE+Star+SMU,"Rosar guna, Mowlobi bazar, hnila, Teknaf",21.03095,92.23766,CXTKN45,Outdoor/GF,Gold P1,Teknaf,GPI Cox's Bazar
+CTG1158,BTS Local (FMP29) 212,"Nichpankhali, Moulovirkum bazar, Ward#07, Chakaria.",21.7471,92.0785,CXCKRB8,5,,CP,
+CTG2744,Abloy(602)+ZTE+Star+SMU,Nila,20.99597,92.2542,CXTKN43,Outdoor/GF,Gold P1,Teknaf,GPI Cox's Bazar
+CTG2986,Bluetooth+Abloy(602)+ZTE+Star+SMU,"Gudharbill, Teknaf",20.85875,92.28933,CXTKN87,Outdoor/GF,Gold P1,Teknaf,GPI Cox's Bazar
+CTG2747,Abloy(602)+ZTE+Star+SMU,"Gimong khali Bazar, Hnila, Teknaf",21.05935,92.22631,CXTKN91,Outdoor/GF,Gold P1,Teknaf,GPI Cox's Bazar
+CTG2546,Digital+ZTE,"Bhalokhali Bazar, Ukhiya, Teknaf",21.19091,92.16775,CXUKA13,Indoor/GFRT,Gold P1,Ukhiya,GPI Cox's Bazar
+CTG2910,Bluetooth+Abloy(601)+Star+SMU+ZTE,"Razar bill, dhokkin ghunia, Chakaria",21.74616,92.10349,CXCKRB8,Outdoor/GF,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG2907,Digital+Abloy(832)+ZTE,"10No union parishad, Burir pokur par, Chakaria",21.73062,92.06024,CXCKR37,Indoor/GFRT,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG2885,Digital+ZTE,"Younos khali Bazar, Moheshkhali",21.70192,91.92539,CXMHK09,Indoor/GFRT,Gold P1,Moheshkhali,GPI Cox's Bazar
+CTG2767,Abloy(601)+Star+ZTE+SMU,"Gazalia, Islamabad, Cox's Bazar",21.57406,92.07255,CXCKRA2,Outdoor/GFRT,Gold P1,Chakaria,GPI Cox's Bazar
+CTG3216,Abloy(601)+Star+ZTE+SMU,"Hakim para, pahartoli, Cox's Bazar",21.43325,91.98239,CXSDRG6,Outdoor/GF,Gold P1,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3220,Abloy(601)+Star+ZTE+SMU,"Kulia para, Khurushkul, Cox's Bazar",21.45461,91.98961,CXSDRE1,Outdoor/GF,P4/Restricted,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3387,Abloy(CTG MK)+ZTE cabinet key,"Gualia palong, Ramu, Cox's Bazar",21.30328,92.07247,CXRMU16,Indoor/RT,,Ramu,GPI Cox's Bazar
+CTG2527,Digital+Abloy(602),"Kutupalong, Ukhiya, Teknaf",21.20827,92.16986,CXUKH20,Indoor/RT,Gold P1,Ukhiya,GPI Cox's Bazar
+CTG2960,Abloy(602)+ZTE+Star+SMU,"Chakmarkul, Jorailtoli, Ramu, Cox's Bazar",21.4373,92.07308,CXRMUA9,Outdoor/GF,P4/Restricted,Ramu,GPI Cox's Bazar
+CTG2408,Abloy(830)+ZTE+Star,"Langurbil, Pazatan bazar, Teknaf",20.8742,92.26853,CXTKN34,Outdoor/RT,Gold P1,Teknaf,GPI Cox's Bazar
+CTG3174,Digital+ZTE,"Lomba guna bazar, Moheshkhali",21.54108,91.96569,CXMHK11,Indoor/GFRT,P4/Restricted,Moheshkhali,GPI Cox's Bazar
+CTG3176,Digital+ZTE,"Palakata, Eidgong, Cox's Bazar",21.53941,92.04942,CXSDRD3,Indoor/GF,P4/Restricted,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG2808,Abloy(602)+ZTE,"Raja Palong, Ukhiya, Cox's Bazar",21.27136,92.12417,CXUKA81,Outdoor/GF,P4/Restricted,Ukhiya,GPI Cox's Bazar
+CTG2959,Abloy(602)+ZTE+Star+SMU,"Cha bagan, nunachari, ramu, cox's bazar",21.45879,92.08726,CXRMU73,Outdoor/GF,,Ramu,GPI Cox's Bazar
+CTG3153,Digital+Local(HO),"Phashcim Konakhali, Demushia, Chakaria",21.78149,91.95295,CXCKR22,Indoor/GFRT,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG3222,Abloy(602)+Digital+ZTE+Star+SMU Local(Imam mosque),"Eidgah, Tekpara",21.56058,92.041305,CXSDR40,Outdoor/GF,P4/Restricted,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3177,Abloy(602)+ZTE+Star+SMU,,21.28572,92.09566,CXUKA85,Outdoor/GF,P4/Restricted,Ukhiya,GPI Cox's Bazar
+CTG2810,Bluetooth lock+ Star+ZTE E.CO-602,"Dokin fuliapara, Cox's Bazar",21.23028,92.1334,CXUKA80,Outdoor/GF,,Ukhiya,GPI Cox's Bazar
+CTG3180,Abloy(830+601)+Star+SMU+ZTE,Cox's Bazar Polytechnique institude,21.42036,92.02958,CXSDR49,Outdoor/RT,,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG2901,Abloy(601)+Star+ZTE+SMU,"Manikpura, Zamidar para, Chakaria",21.76308,92.14066,CXCKRB0,Outdoor/GF,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG2900,603 & Digital,"Maronghuna, Pekua, Chakaria",21.79207,92.00119,CXCKR08,Indoor/GF,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG3388,Digital+Local(Rice shop),"Bashghata, Eidgong,",21.5561,92.06247,CXSDR44,Indoor/RT,Gold P1,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3226,Abloy(601)+Star+ZTE+SMU,"Bottoli Bazar, Pekua, Chakaria",21.7735,92.0024,CXCKRA4,Outdoor/GF,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG3225,Abloy(832)+Star+ZTE+SMU,"Hossain market, chiringa, chakaria",21.76183,92.07592,CXCKR29,Outdoor/RT,Gold P1,Chakaria,GPI Cox's Bazar
+CTG3169,Abloy(831)+Abloy(601)+Star+ZTE+SMU,"Alir bari, poshcim para, choufoldandi",21.5225,92.01023,CXSDRB7,Outdoor/GF,Gold P1,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3426,"Abloy(831), CTG COX+Star+ZTE+SMU","Dhorgah para, baro awolia, Eidgah, Cox's bazae",21.55204,92.07747,CXSDR69,Outdoor/GF,P4/Restricted,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG2912,Abloy(601)+Star+ZTE+SMU,"Char kakara, Chakaria, Cox's Bazar",21.77296,92.08902,CXCKR96,Outdoor/GF,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG3374,Abloy(831),Peshkarpara,21.4455,91.97966,CXSDR42,Indoor/RT,Gold P1,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3182,Digital,"Dailyaghona, Kalarmar chara, Moheshkhali",21.64626,91.92371,CXMHK13,Indoor/GFRT,,Moheshkhali,GPI Cox's Bazar
+CTG2890,Abloy(602)+ZTE+Star+SMU,"Moulobir kata, Shaplapur, Moheshkhali",21.65134,91.96494,CXMHK56,Outdoor/GF,Gold P1,Moheshkhali,GPI Cox's Bazar
+CTG2884,Digital+Gte local sg+ZTE,"Ghotivanga bazar, Maheshkhali, Cox's Bazar",21.52542,91.89739,CXMHK12,Indoor/GFRT,P4/Restricted,Moheshkhali,GPI Cox's Bazar
+CTG2889,Digital+Abloy(830)+ZTE,"Japua, kalarmarchara, Maheshkhali, Cox's Bazar",21.68617,91.92156,CXMHK23,Indoor/GFRT,Gold P1,Moheshkhali,GPI Cox's Bazar
+CTG3181,Star+ZTE+Abloy(601),"Banglabazar, PM khali, Cox's Bazar",21.4297,92.0346,CXSDR87,Outdoor/RT,P4/Restricted,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3221,Digital+SMU+ZTE,"Pokkali, Eidgon, Cox's Bazar",21.55061,92.02504,CXSDR24,Indoor/GF,,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3102,Solax 222(A & B)+SMU+Star+ZTE,"Shikdar bari, Shiringa, Chakaria",21.76648,92.06449,CXCKR1,Outdoor/GF,Gold P1,Chakaria,GPI Cox's Bazar
+CTG3173,Abloy(602)+SMU+Star+ZTE,"Shikal ghat, Chakaria, Cox's Bazar",21.77872,92.07914,CXCKRA9,Outdoor/GF,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG3193,SMU+Star+ZTE,"East Dighalia, Ukhia",21.25273,92.14304,CXUKH53,Outdoor/RT,P4/Restricted,Ukhiya,GPI Cox's Bazar
+CTG3450,Digital+Abloy(602)+SMU+ZTE,"Innani, Ukhiya, Cox's Bazar",21.22333,92.05022,CXUKH14,Indoor/RT,Gold P1,Ukhiya,GPI Cox's Bazar
+CTG2766,Digital+ Abloy(0831)+ZTE,"Dailpara, Kharushkul, Cox's Bazar",21.49061,91.99847,CXSDR59,Indoor/GFRT,Gold P1,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3376,Digital+Abloy(831)+ZTE,"Pahartoli, Islampur, Cox's Bazar",21.4307,91.98409,CXSDR61,Indoor/GFRT,Gold P1,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG2904,Digital+Abloy(0834)+ZTE,"South pulchari, Khutakhali",21.603,92.06138,CXCKR44,Indoor/GFRT,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG2976,Abloy(601)+Techsol+SMU+ZTE,"Moulovi Bazar, Pekua, Cox's Bazar",21.86003,91.9673,CXPKA25,Outdoor/GF,Gold P1,Pekua,GPI Cox's Bazar
+CTG3427,Abloy(0834)+Techsol+SMU+ZTE,"Fathekarkul, Ramu, Cox's Bazar",21.41831,92.10739,CXRMU23,Outdoor/GFRT,P4/Restricted,Ramu,GPI Cox's Bazar
+CTG3325,602+Star+SMU+ZTE,"Dechuapalong, Ramu, Cox's Bazar",21.32349,92.0876,CXRMUA7,Outdoor/GF,P4/Restricted,Ramu,GPI Cox's Bazar
+CTG3166,Abloy(0832)+Digital,"Kutub bazar, Baroitoli, Cox's Bazar",21.8057,92.0306,CXCKR27,Indoor/GFRT,,Chakaria,GPI Cox's Bazar
+CTG2913,Digital+ZTE,"Poshchim maizghuna, Chakaria, Cox's Bazar",21.75378,92.0495,CXCKR24,Indoor/GFRT,Gold P1,Chakaria,GPI Cox's Bazar
+CTG2911,Abloy(603)+Abloy(601)+Star+SMU+ZTE,"Uchitar Bill, Fashiakhali, Chakaria, Cox's Bazar",21.73331,92.09225,CXCKR93,Outdoor/GF,,Chakaria,GPI Cox's Bazar
+CTG2902,Abloy(831)+Digital+ZTE,"Akota Bazar, Baroitoli, Chakaria, Cox's Bazar",21.83003,92.06886,CXCKR17,Indoor/GFRT,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG3481,Digital+ZTE,"Joarianala, Madrasha gate, Ramu, Cox's Bazar",21.47231,92.09842,CXRMU04,Indoor/GFRT,Gold P1,Ramu,GPI Cox's Bazar
+CTG3425,Abloy(602)+ZTE+Star+SMU,"Boro dholir chara, Ramu, Cox's Bazar",21.5029,92.06173,CXRMU62,Outdoor/GF,Gold P1,Ramu,GPI Cox's Bazar
+CTG3194,Abloy (602)+Techsol+SMU+ZTE,Whykong BGB check post,21.12008,92.19493,CXTKN46,Outdoor/GF,Gold P1,Teknaf,GPI Cox's Bazar
+CTG3159,Abloy(602)+Digital+ZTE,"Ulubunia, Whykong",21.13267,92.18292,CXTKN25,Indoor/GFRT,Gold P1,Teknaf,GPI Cox's Bazar
+CTG2981,Abloy(602)+Techsol+SMU+ZTE,,21.83481,91.99328,CXPKA28,Outdoor/GF,P4/Restricted,Pekua,GPI Cox's Bazar
+CTG2888,Abloy(833+602)+Techsol+Star+ZTE,"Nayapara, Kutubjum, Maheshkhali",21.51692,91.93162,CXMHK38,Outdoor/GF,Gold P1,Moheshkhali,GPI Cox's Bazar
+CTG2887,Main gate CSG 72 BTS gate 13,"Boro Moheskhali , Moheskhali , Cox-Bazar",21.554464,91.920865,CXMHK38/CTG9032,Indoor/GFRT,P4/Restricted,Moheshkhali,GPI Cox's Bazar
+CTG3167,Digital+Abloy(830)+ZTE,"Badarkahali, Chakaria, Cox's Bazar",21.70255,91.95545,CXCKR38,Indoor/GFRT,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG2977,Digital+ZTE,"Pekua Bazar, Pekua",21.83269,91.95672,CXPKA03,Indoor/GFRT,Gold P1,Pekua,GPI Cox's Bazar
+CTG3476,Abloy(602)+SMU+ZTE+Star,,21.79988,91.98215,CXPKA19,Outdoor/GF,Gold P1,Pekua,GPI Cox's Bazar
+CTG2909,Abloy(601)+Star+ZTE+SMU,"Hazian, Chirinagar, Chakaria",21.76003,92.0879,CXCKRB3,Outdoor/GF,Gold P1,Chakaria,GPI Cox's Bazar
+CTG3155,Abloy(832+602)+Star+ZTE,"Demusia, Chakaria, Cox's Bazar",21.76602,91.97095,CXCKR32,Outdoor/GFRT,Gold P1,Chakaria,GPI Cox's Bazar
+CTG3477,Digital+Abloy(832)+ZTE,"Amin Bazar, Rajakhali, Pekua",21.86282,91.92647,CXPKA10,Indoor/GFRT,Gold P1,Pekua,GPI Cox's Bazar
+CTG2906,Abloy(832+601)+SMU+Star+ZTE,"Noyapara, Koiarbil, Chakaria",21.79033,92.05548,CXCKR80,Outdoor/GF,Gold P1,Chakaria,GPI Cox's Bazar
+CTG2979,Abloy(832)+Digital+SMU+ZTE,"Purbo Goakhali, Pekua, Cox's Bazar",21.81947,91.95728,CXPKA09,Indoor/GFRT,P4/Restricted,Pekua,GPI Cox's Bazar
+CTG2975,Local+Digital+ZTE,"Sabuj Bazar, Rajakhali, Pekua",21.85331,91.94136,CXPKA07,Indoor/GFRT,Gold P1,Pekua,GPI Cox's Bazar
+CTG3482,Abloy(602)+SMU+ZTE+Techsol,"Nasirkul, Rajarkul, Ramu",21.40942,92.10977,CXRMUB0,Outdoor/RT,P4/Restricted,Ramu,GPI Cox's Bazar
+CTG3156,Abloy(602)+Digital+SMU+ZTE,"Nayabazar, nila, Teknaf",21.0427,92.23569,CXTKN37,Indoor/GFRT,Gold P1,Teknaf,GPI Cox's Bazar
+CTG3383,Digital+SMU+ZTE,"Sonkhula bazar, PM khali, Cox's bazar",21.45239,92.01494,CXSDR29,Indoor/GFRT,P4/Restricted,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3165,Abloy(832)+Abloy(602)+SMU+Star+ZTE,"Nila Madrasha road, Poshcim pan khali",21.01944,92.23706,CXTKN31,Outdoor/GFRT,Gold P1,Teknaf,GPI Cox's Bazar
+CTG3391,Abloy(831)+ Rectifier cabinet(601)+ZTE,"Fakira ghata bazar, Ultakhali",21.48344,92.06558,CXSDR55,Outdoor/GFRT,Gold P1,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3190,Bluetooth+Abloy(602)+SMU+ZTE+Star,"Moriccha, Pathabari bazar, Ukhiya",21.30757,92.1396,CXUKH84,Outdoor/GF,,Ukhiya,GPI Cox's Bazar
+CTG2978,Abloy(602)+SMU+Star+ZTE,"Sonali Bazar, Magnama, Pekua",21.79828,91.93885,CXPKA22,Outdoor/GF,Gold P1,Pekua,GPI Cox's Bazar
+CTG2914,Abloy(832)+SMU+Star+Abloy(601),"Shikder para, Purbo Boro vewla",21.76821,92.036588,CXCKR30,Outdoor/GFRT,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG3185,Abloy(603)+ZTE+Star,"North Gundhum, Hazi market, Mogh ghata",21.22925,92.17983,BBNKC09,Outdoor/GF,,Naikkhanchori,GPI Cox's Bazarc
+CTG3382,Digital+ZTE,"Baishari bazar, Naikong chari",21.51158,92.17446,BBNKC02,Indoor/GFRT,,Naikkhanchori,GPI Cox's Bazar
+CTG2903,SMU+Abloy(832)+ZTE+Abloy602,"Dulhazara Bazar, Rong mahol, Chakaria",21.65539,92.085806,CXCKR31/CXCKR09,Outdoor/Indoor GFRT,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG3183,Abloy(601)+SMU+Star+ZTE,"Dulhazara, Medha kossopia",21.64224,92.07078,CXCKRA6,Outdoor/GF,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG3428,Abloy(830+601)+ ZTE,"SM para jame moshjid, 5no ward",21.44142,92.003435,CXSDR63,Indoor/GFRT,P4/Restricted,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3191,Bluetooth+Abloy(602)+zte,"phalungkhali, Ukhiya",21.15116,92.13865,CXUKH51,Outdoor/GF,,Ukhiya,GPI Cox's Bazar
+CTG3373,830 digital,Faithong Bazar,21.8138,92.104844,BBLMA06,GFRT/Indoor,,"Lama, Bandarban",GPI Cox's Bazar
+CTG3518,Abloy(602)+SMU,Teknaf Sadar Union Parishad,20.86447,92.27367,CXTKN74,Outdoor/GF,P4/Restricted,Teknaf,GPI Cox's Bazar
+CTG3665,Abloy(602)+ZTE,"Uttar shilkhali, Teknaf",21.05676,92.162514,CXTKN21,GFRT/Indoor,P4/Restricted,Teknaf,GPI Cox's Bazar
+CTG2982,Local key(Atik),"Uttar dgurung, Shirazdullah chairman bari",21.89536,91.869611,CXKTD05,GFRT/Outdoor,,Kutubdia,GPI Cox's Bazar
+CTG3645,Abloy(601)+SMU+Star+ZTE,"Monopara, Khuruskul, Coxsbazar",21.466,91.979183,CXSDRD9,Outdoor/GF,,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3668,Abloy 602 + SMU+Star+ZTE,"Jarul Bunia, Pan Bazar, Shilkhali, Barobakia Pekua, Cox's Bazar",21.83405,92.012115,CXPKA36,Outdoor/GF,,Pekua,GPI Keranirhat
+CTG3690,Abloy(830)+Digital,"Dhumkhali Madrsha, Dhumkhali, Malumghat, Chakaria, Coxsbazar",21.67978,92.065868,CXCKR48,Indoor/GFRT,,Chakaria,GPI Keranirhat
+CTG3639,Abloy(0835)+Abloy(0602)+ZTE+Star,"Pashcim Rajarkul, Hafez para",21.4136,92.0794,CXRMU46,Outdoor/GF,P4/Restricted,Ramu,GPI Cox's Bazar
+CTG3637,Abloy(832)+Digital+ZTE,Pecardip himchori,21.31113,92.04371,CXRMU27,Indoor/RT,,Ramu,GPI Cox's Bazar
+CTG3162,Digital+Abloy(601)+ZTE,"Fathe Ali shikdar para, Baroitoli",21.8069,92.05823,CXCKR91,Outdoor/GF,P4/Restricted,Chakaria,GPI Cox's Bazar
+CTG3101,Digital + Abloy(832)+ Star,"Mohsoniakata, Pahorchanda, Chakaria",21.81928,92.03865,CXCKR45,Indoor GFRT,,Chakaria,GPI Cox's Bazar
+CTG3643,Digital Bluetooth + Abloy(601)+ Star,"Muhuripara, Cox’s Bazar,",21.4189,92.0204,CXSDRG3,Outdoor GF,P4/Restricted,Cox’s Bazar Sadar,GPI Cox's Bazar
+CTG3667,Abloy(835)gate+Abloy(602)Rectifier+SMU+ZTE,Rongikhali Bazar,20.98881,92.2429,CXTKN33,Outdoor/GFRT,,Teknaf,GPI Cox's Bazar
+CTG3638,Digital+ZTE,"MarineDrive road, Kolatoli",21.4044,91.991952,CXSDR21,Indoor RT,,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3217,Need access permission from CTG BTCL,Kolatoli BTCL MW substation,21.42194,91.99217,BTCL/CXSDR05,Indoor GF,,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3120,Digital+Abloy(503)+Star,"Boalia Madrasha, Anowara, Chittagong.",22.18331,91.83434,CGANW03,ID+OD RT,,Anowara,GPI Chiattagong
+CTG2409,Digital+SG(+8801819955852),"Gulal mura, Phalong khali, Ukhiya",21.14984,92.153973,CXUKH04,Indoor GF,,Ukhiya,GPI Cox's Bazar
+CTG3389,Digital,"UttaraBhaban, Krisnananda dhum Road, Ghonar para, Ward no:7,",21.43767,91.979917,CXSDR20,Indoor RT,,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3666,Abloy(602) Main gate; Abloy(602) rectifier cabinet; SMU,"Sabrang union parishad, Teknaf",20.81969,92.3065,CXTKN32,Outdoor GFRT,P4/Restricted,Teknaf,GPI Cox's Bazar
+CTG3141,Digital+502+Star,"Fakirnir Hat, Patiya, Chittagong,",22.28298,91.86475,CGPTA45,Indoor+Outdoor RT,,Patiya,GPI Chiattagong
+CTG3107,Digital+800,,22.25741,91.898056,CGPTA60,,,Patiya,GPI Chiattagong
+CTG3688,"Abloy(SMCD1_306, SMCC1_282), Star, ZTE","Sabek para, 1No ward, Varuakhali, Cox's Bazar Sadar",21.49873,92.033,SBCXSDR006,Outdoor GF,,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG2498,STL ABLOY,"Bedsides BGB camp, Teknaf, Cox’s Bazar.",20.87196,92.28048,,Outdoor GF,P4/Restricted,Teknaf,GPI Cox's Bazar
+CTG2768,"Abloy(601), SMU","Jilongja, Haji para, Noor Mahal",21.42865,92.01158,CXSDR004,Outdoor GF,,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3223,"Abloy(601), Digital","Gumatoli Bazar, Eidgah, Cox's Bazar Sadar",21.56986,92.007442,CXSDR45,Indoor GFRT,,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG2576,"Abloy(0602), SMU, ZTE cabinet key","Palong General Hospital, Kutupalong",21.2184,92.155,CXUKH86,Outdoor GF,,Ukhiya,GPI Cox's Bazar
+CTG3728,"Abloy(602), SMU, ZTE cabinet","Fuler dail, kossopia, Teknaf",20.94895,92.212617,CXTKN78,Outdoor GF,P4/Restricted,Teknaf,GPI Cox's Bazar
+CTG3754,"Abloy(602), SMU, ZTE cabinet","Razachara, Teknaf",20.9032,92.2418,CXTKN84,Outdoor GF,,Teknaf,
+CTG3170,"Digital, ZTE cabinet","Eidgah, Napithkhali bazar",21.58879,92.06431,CXSDR11,Indoor GF,P4/Restricted,Cox's Bazar Sadar,
+CTG3756,"Digital+Abloy(602), SMU, ZTE",,21.10833,92.1178,CXTKN81,Outdoor GF,P4/Restricted,Teknaf,
+CTG3160,"Abloy(602), SMU, ZTE cabinet","Mokthar Fakir mazar, Morichha",21.31166,92.11334,CXUKH72,Outdoor GF,,Ukhiya,GPI Cox's Bazar
+CTG2809,"Main gate Abloy(832), Rectifier Cabinet Abloy(602)",Infront of Ukhiya Fire station,21.252,92.128,CXUKH48,Outdoor GF,P4/Restricted,Ukhiya,GPI Cox's Bazar
+CTG3157,"Main gate Abloy(602), BTS room Digital","Charabot tholi bazar, Inani, Old Marine drive road",21.156,92.069,CXUKH23,Indoor RT,,Ukhiya,GPI Cox's Bazar
+CTG3689,Main Gate Abloy(833) BTS room Digital,"Kaydabad, Moheshkhali",21.612,91.981,CXMHK15,Indoor RT,,Moheshkhali,GPI Cox's Bazar
+CTG3192,"Main gate + Rectifier Abloy(602), SMU card need to carry","Amtoli, natun para, ratna palong, court bazar, ukhiya",21.27778,92.152173,CXUKH49,Outdoor GF,,Ukhiya,GPI Cox's Bazar
+CTG3171,"Main gate Abloy, BTS room Digital","Napitkahl bazar, Eidgah",21.58261,92.050974,CXISL1,Indoor GF,P4/Restricted,Eidgah,GPI Cox's Bazar
+CTG3781,Abloy 613(02),Eidghar Bazar,21.57253,92.14379,CXIDR1,Indoor GF,P4/Restricted,Eidgah,GPI Cox's Bazar
+CTG3175,Digital + ZTE cabinet,"Ukhiya, Court bazar, Roof top of market(PG should be carry on roof top)",21.27575,92.103528,CXUKH02,Indoor RT,,Ukhiya,GPI Cox's Bazar
+CTG3723,Digital+ZTE cabinet,"Opposite Teknaf REB office, Harun Bath ghor",20.87261,92.29917,CXTKN23,Indoor RT,,Teknaf,GPI Cox's Bazar
+CTG3218,Star+ BL C old,"Modhom Munia Chora, Airport Cox's Bazar",21.45334,91.96734,CXAIR2,Outdoor RT,P2,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG2574,Main gate(602); BattRectifier(602); SMU,"Mochoni bazar, damdamia, Teknaf",20.95867,92.253963,CXTKN26,Outdoor GFRT,P2,Teknaf,GPI Cox's Bazar
+CTG2748,BTS room (602)+SMU+ZTE,"Pallan para, lengurbill road, Teknaf",20.86977,92.288796,CXTKN14,Indoor GFRT,P4/Restricted,Teknaf,GPI Cox's Bazar
+CTG3686,Solax 222(A & B)+SMU+Star+ZTE,"PM khali, cherang ghat bazar, AB poultry and dairy farm",21.44811,92.031228,,Outdoor/GF,P4/Restricted,Cox's Bazar Sadar,GPI Cox's Bazar
+CTG3451,,MOUI resort himchori,21.335075,92.034024,,,,,
+CTG3748,key available at Hotel authority,"7th floor, 3rd wings, electric penty room. 9th floor, president swit/lift back side, electric penty room, BTS room at roof top, CTG3748 Seapearl BTS & RRU location",21.534153,91.95291,,Indoor/RT,P4/Restricted,"Innani, hotel seapearl",GPI Cox's Bazar
+CTG3163,BTCL Room,Ukhiya BTCL Tower,21.239851,92.156982,,Indoor/GF,P4/Restricted,Ukhiya college,GPI Cox's Bazar
+CTG0517,Main gate 212,"Hafazat Market, Pan Bazar, Cox's Bazar",21.44369,91.97761,CXSDRB9,CP,P1 + SCL MH,,GPI Cox's Bazar
+CTG0122,SG DG room (AT031) BTS Clock(9112) fuel tank local,"East Napit Khali, Islampur, Cox?s Bazar. (Near Dula Phakir Mazar)",21.57876,92.06533,,CP + DG,P1 + SCL MH,,GPI Cox's Bazar
+CTG0274,Out gate -(CJO47) BTS -(BVO50) DG room - (BYG80) fuel tank - (c),"Naf filling station,Nila bazar,Teknaf,Cox's bazar",21.0088,92.25184,CXTKN57,CP + DG,P1 + SCL MH,,GPI Cox's Bazar
+CTG0124,BTS - (212) DG room (BQT27) Fuel tank (C),"Rathna Palang, Court Bazar, South Station, Ukhia, Cox's Bazar",21.27138,92.10818,CXUKH19,CP + DG,P1 + FHL MH,,GPI Cox's Bazar
+CTG0941,Out gate (212) BTS gate (ELM49+212) DG room (BGU24) Fuel tank (C),"Miton Kanti Dey,Chafaldandi Bazar,Cox's Bazar Sadar,Cox's Bazar",21.51579,92.01501,,CP + DG,P1 + FHL MH,,GPI Cox's Bazar
+CTG0937,Out gate (212) BTS gate Local DG room local Fuel tank C,"Md Zibrail Amin,Bethua Bazar,Chakaria,Cox s Bazar",21.78171,92.04147,,CP + DG,P1 + FHL MH,,GPI Keranirhat
+CTG1373,SG 01857988236 DG room loal,"Time Bazar, Maheshkhali_CTG_X9030",21.62589,91.92373,,CP + DG,P1,,GPI Cox's Bazar
+CTG0702,SG 01815534599 DG room (C) main gate BEJ 24 BTS CWE 73,"kalamarchara Bazar, Maheshkhali, Cox s Bazar",21.66725,91.9204,,CP + DG,P1 + FHL MH,,GPI Keranirhat
+CTG1360,SG site Rezaul 01866475602 Main Gate Mobaj (ERO 29) BTS 212+Local (GNJ47) ,"Mohsini para, Cyclone Centre, P.M. Khali, P.O. - P.M. Khali, Cox's bazar sadar, Cox's bazar",21.46098,92.05701,CXSDR28,CP,P2,,GPI Cox's Bazar
+CTG1898,SG site 01984992040,"Kutupalang, Ukhia_CTG_X9008",21.214976,92.16294,CXUKH06,CP + DG,P1,,GPI Cox's Bazar
+CTG0032,BTS (212),Hotel Sea Queen Pvt. Ltd. Jhawtala Main Road Cox?s Bazar,21.44295,91.97179,CXSDR02,CP,P1,,GPI Cox's Bazar
+CTG0121,BTS Mobaj (GUL56),"Mogsadajom,Dulahazra,Chakaria,Cox sbazar",21.67219,92.07674,,CP+Solar,P2,,GPI Keranirhat
+CTG0123,SG 01888-312246 BTS (EPK29) DG room (EVG82),"North Mitha Chory, Tea Garden, JUrianala, Ramu, Cox?s Bazar",21.4533,92.1,,CP + DG,P1 + FHL MH,,GPI Cox's Bazar
+CTG0275,Digital,"Teknaf,Coxs bazar,Chittagong",20.86707,92.29924,CXTKN01,CP + DG,P1,,GPI Cox's Bazar
+CTG1664,SG 01837881235 DG room (ETW98),kanjorpara station_CTG_X9009,21.07621,92.22437,CXTKN06,CP + DG + Solar,P1,,GPI Cox's Bazar
+CTG0441,BTS (EPN26),"khurushkul, Cox's Bazar, CTG",21.46994,91.99287,,CP,P1,,GPI Cox's Bazar
+CTG0766,Main gate (212) BTS (BGM87) DG room (BIS47) Fuel tank (C),"Whykong Bazar,Teknaf, Cox's Bazar",21.11706,92.19809,CXTKN10,CP + DG,P1,,GPI Cox's Bazar
+CTG1953,SG 01851568957 DG room (DLW87),Near Teknaf Bus Stand_CTG_X9010,20.88453,92.29988,CX,CP + DG + Solar,P2 + TXN,,GPI Cox's Bazar
+CTG0031,BTS 212,2959,21.44183,91.9829,CXSDR72,CP,P2,,GPI Cox's Bazar
+CTG0442,BTS 212 BTS ETH 15,"RP Shopping Center, Ramu, Cox's Bazar.",21.43019,92.10471,CXSDRA7,CP,P2,,GPI Cox's Bazar
+CTG1665,SG 01810604775,uttor kania palong_CTG_X9011,21.3578,92.088,CXRMU43,CP,P2,,GPI Cox's Bazar
+CTG0313,BTS (Digital),Jhilonja_Relocation,21.42632,92.02397,CXSDR08,CP,P2,,GPI Cox's Bazar
+CTG0443,Main gate (212+DNJ43) DG (CANOV LOCAL),"Sonar para, Ukhia, Cox's Bazar",21.28444,92.05691,CXUKH08,CP + DG,P2,,GPI Cox's Bazar
+CTG1172,Abloy 212,"Zia mansion,Circuit housa road,Sada,Coxsbazar",21.4399,91.97371,CXSDR17,CP,P2,,GPI Cox's Bazar
+CTG1248,Main gate (GP+ROBI Abloy) BTS Gate ( ALF57),"Khurulia Bazar,Ramu,Coxsbazar",21.42827,92.05952,CXKRL1/CXRMU21,CP,,,GPI Cox's Bazar
+CTG1585,Abloy 212,"Hotel Sea Palace(Western Plaza), Kolatoli Road, Cox's Bazar.",21.42166,91.98096,CXSDR12,CP,P2 + FHL MH,,GPI Cox's Bazar
+CTG1644,Abloy 212 EBA72 (battery cabinet local),"Jamir Chhari, Shaplapur, Maheshkhali, Cox s Bazar",21.66581,91.95691,,CP,P2,,GPI Keranirhat
+CTG1722,GP Abloy,"GARJONIA 3 Bazar, ramu,Cox's Bazar.",21.44047222,92.19505556,CXRMU36/58,CP,,,GPI Cox's Bazar
+CTG0264,,"Md. Monjur Elahi, Borogup, Kutubdia, CoxsBazar.",21.815,91.85462,,DG + Solar,P1,,GPI Keranirhat
+CTG1089,Main gate 212 Battery cabinet (BOJ20),"Domdomia,Rangikhali,Teknaf,Coxsbazar",20.91975,92.26782,CXTKN07,CP,P2 + SCL MH,,GPI Cox's Bazar
+CTG1299,Main gate 212 BTS (FAP68+212) DG room (FTX79) Fuel tank (C),"Hamedul Haque,Pongokhana,Rajarkul,Ramu,Cox'sbazar",21.39744,92.11224,,CP + DG,P1,,GPI Cox's Bazar
+CTG1352,Main gate (212) BTS (212+MOBAJ) FUEL tank (local),"Coral Khali, Sahar Bil, Chokoria, Cox s Bazar",21.75145,92.024,,CP + DG,P1,,GPI Keranirhat
+CTG1363,Main gate (212+MOBAJ) BTS (MOBAJ),"Satghar para, Seeplpur Bazar, Maheshkhali, Cox s Bazar",21.64238,91.97656,,CP + DG + Solar,P2,,GPI Keranirhat
+CTG1604,main gate (212) BTS (EXC52+212),"Notun Mohol Bazar, Chowfoldondi, Cox's Bazar Sadar, Cox's Bazar",21.53264,92.03928,,CP,P1,,GPI Cox's Bazar
+CTG1897,BTS local Battery cabinet LOCAL,"Ualapalong, Ukhia bazar, Ukhia Station Sadar,Cox's Bazar",21.24523,92.1381,CXUKH36,CP,P1,,GPI Cox's Bazar
+CTG0101,Abloy 212,"804,Tarabania Chara,Cox's Bazar",21.44074,91.98768,CXSDRH4,CP,P2,,GPI Cox's Bazar
+CTG1101,Main gate GP abloy BTS (212) mobaj EIQ69,"Idgaon,Cox's Bazar Sadar, Cox's Bazar",21.560576,92.071834,,CP,P2,,GPI Cox's Bazar
+CTG1109,SG local,Shah Porir Dwip,20.767377,92.331806,,CP + DG,P2,,GPI Cox's Bazar
+CTG1135,LOCAL EUQ 23,"Fasiakhali,Chakaria,Cox s Bazar",21.721033,92.084884,CXFSK1,CP,P2,,GPI Cox's Bazar
+CTG1141,C+212+Mobaj CES12,"Aziznagar,Chakaria,Cox's Bazar",21.895254,92.061722,CXCKR13,CP,P2,,GPI Cox's Bazar
+CTG1181,Main gate C BTS 212 MOBAJ BKC45,"Baniachara,Baraitoli,Chakaria,Cox sbazar",21.80453,92.07855,CXCKR01,CP,P2,,GPI Cox's Bazar
+CTG1586,SG 01814784279,"Inani Sea beach, P.O.- Inani , P.S.- Ukhia, District- Cox?bazar",21.23502,92.05135,CXUKH44,CP+Solar,P4/Restricted,,GPI Cox's Bazar
+CTG1893,main gate EKP 12,"Mondol Para , Subrang",20.83505,92.29955,CXTKN12,CP,P2,,GPI Cox's Bazar
+CTG1894,Digital,Shamlapur,21.07563889,92.14355556,,CP + DG,P1,,GPI Cox's Bazar
+CTG1896,212+LOCAL,"Chowdhurypara, BGB camp, Cox's Bazar",21.4333,92.001,CXSDR14,CP,P2,,GPI Cox's Bazar
+CTG1921,602+digital,Sabrang2,20.801,92.31480556,,CP,P4/Restricted,,GPI Cox's Bazar
+CTG2528,830,Chakpara Baishari,21.51067,92.19455,BBNKC19,CP + DG,,,GPI Cox's Bazar
+CTG0102,Abloy 212,Kolatoli__Outdoor_Reloc,21.42747,91.97876,CXSDRD7,CP,P1,,GPI Cox's Bazar
+CTG0261,,"Moheshkhali Pourashava, Moheshkhali,Cox's Bazar",21.521547,91.961202,,CP + DG,P1,,GPI Keranirhat
+CTG0749,Abloy 212,"South Baharchora, Cox's Bazar",21.43594,91.97377,CXSDR86,CP,P2,,GPI Cox's Bazar
+CTG0910,Main gate (AWE13) BTS (BIA25) DG room 212,"Shamsu Sawdagor,Marichha Bazar,Ukhia,Cox's Bazar",21.30844,92.09731,CXUKH07,CP + DG,P1,,GPI Cox's Bazar
+CTG1099,,St. Martin's Island,20.63272,92.32198,,DG + Solar,P1,,GPI Cox's Bazar
+CTG1136,BTS Local (CTN83),"Khutakhali Bazar, Chakaria, Cox's Bazar",21.6159,92.0681,,CP,P4/Restricted,,GPI Keranirhat
+CTG1150,Main gate GP Abloy BTS Code lock 9939 Battery cabinet (DLG-35),"Panirchora, Ramu, Cox s Bazar",21.497944,92.074444,,CP,P4/Restricted,,GPI Cox's Bazar
+CTG1182,212+Local,"Nandan khali,Sadar,Coxsbazar",21.42609,92.00269,CXSDR14,CP,P2,,GPI Cox's Bazar
+CTG1246,,Bodarkhali,21.717889,91.95505,CXBDK1,CP + DG,P2,,GPI Cox's Bazar
+CTG2652,,"Arabshah Bazar, Pekua, Coxsbazar",21.88477,91.94644,,CP + DG,P2,,GPI Keranirhat
+CTG1584,MAIN GATE 212 BTS MOBAJ GFP20,"Mijirpara (Beside Mohila College), Notun bazar , Maheshkhali, Cox s Bazar",21.53757,91.93919,,CP + DG,P1,,GPI Cox's Bazar
+CTG1763,,South_Rumaliachara,21.43753,91.99326,CXSDR31,CP,P2,,GPI Cox's Bazar
+CTG1774,Outdoor 800 indor Digital,Nunia Chara_Reloc,21.45764,91.967348,,CP,P4/Restricted,,GPI Cox's Bazar
+CTG1935,,Jadimura Bazar,20.9423056,92.2595833,CXTKN22,CP + DG,P1,,GPI Cox's Bazar
+CTG2178,Digital,Eidgaon2_Reloc,21.5536,92.0674,CXEDGH5,CP,P2,,GPI Cox's Bazar
+CTG2345,,Sugondha Beach_COW_2017,21.42189,91.97774,CXSDRB5,CP,P2,,GPI Cox's Bazar
+CTG2415,Main gate (830) Rectifire cabinet (602) DG room (C) Fuel tank (local),Matarbari Power Plant,21.696,91.87596,,CP + DG,P4/Restricted,,GPI Cox's Bazar
+CTG3372,STL ABLOY,"Vill: Demodia, PO: Demodia, PS: Chakaria, Dist: Cox's Bazar",21.753225,91.977603,,CP,P3,,GPI Keranirhat
+CTG0291,STL ABLOY,"Word No. #5,Vill-ShaerKillaGona, P.O ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ Pekua, P.S - Pekua, Dist-Cox's Bazar",21.83296,91.96978,,CP,P1,,GPI Keranirhat
+CTG3661,Abloy(501)+SMU+Star+ZTE,,22.13922,92.097591,CGSKN69,Outdoor/GF,,Satkania,GPI Keranirhat
+CTG3204,Digital+ZTE,"Kumiragona, Aktarabad, Borohatia, Lohagora, Chittagong",22.04525,92.046571,CTGLHG07,Indoor/RT,,Lohagara Ctg.,GPI Keranirhat
+CTG2886,Abloy 602+ Star,"North Gonapara, Moheshkhali College, Moheshkhali",,,CXMHK18,Outdoor GF,,Moheshkhali,GPI Keranirhat
+CTG3662,Abloy 800/820+Star,"Haludia Bazar, Bazalia, Satkania.",22.13052,92.160576,,Indoor GFRT,,Satkania,GPI Keranirhat
+CTG3214,Digital + Star,"Rojonigonda Comunity Centre, Kalipur, Banshkhali.",22.06328,91.938694,CGBSK19,Indoor RT,,Banskhali,GPI Keranirhat
+CTG2875,Digital + ZTE cabinet,,22.0661,91.913054,CGBSK12,Indoor RT,,Banskhali,GPI Keranirhat
+CTG3206,GP Digital+GP abloy+ ZTE cabinet,Thakurdigi,,,CGSKN4,Indoor GF,,Satkania,GPI Keranirhat
+CTG3371,"Abloy(602) BTS room, SMU, cabinet key star","Boro moheshkhali, Fakiraghuna, sipahi para",21.53398,91.95267,CXMHK40,Outdoor/GF,P4/Restricted,Moheshkali,GPI lohagara
+CTG3640,Digital+ GP abloy 613,"Moheshkhali, Panerchora Bazar",21.56883,91.926,CXPAN1,Indoor/GF,P4/Restricted,Panerchora Bazar,GPI Keranihat
+CTG0930,,"Noapara,Banskhali,Chittagong",21.93137,91.96066,,CP + DG,P1 + FHL MH,,GPI Keranirhat
+CTG0312,,"City Bank Building , Satkania Sadar, CTG",22.07677,92.05286,,CP,P1 + FHL MH,,GPI Keranirhat
+CTG0292,,"Dorbesh Hat, DC Road, Lohagora, CTG.",22.01516,92.09988,,CP,P1 + FHL MH,,GPI Keranirhat
+CTG0030,BTS 212 DG room LOCAL,"Colleague Road, Chokoria",21.76538,92.0735,,CP + DG,P1 + SCL MH,,GPI Keranirhat
+CTG1146,,"Ramdas , Munsir hat_CTG_X9027",22.08182,91.9279,,CP + DG,P1,,k
+CTG0120,BTS IN (CNJ70) BTS OUT (EVC60+KIKO LOCK) DG room (APR13) fuel tank (local),Harbang bus stand,21.84674,92.06133,CXCKR39,CP + DG,P1 + SCL MH,,GPI Keranirhat
+CTG0603,,"Satkania,Chittagong",22.14379,92.07046,,CP + DG,P2 + FHL MH,,GPI Keranirhat
+CTG0751,,"Rafiq Ahmed chowdhury,Bazalia bazar,Satkania,Chittagong",22.12743,92.12778,,CP + DG,P2 + SCL MH,,GPI Keranirhat
+CTG0450,,"Bagicharhat, Chandanish ,CTG",22.19207,92.0461,,CP + DG,P2 + FHL MH,,GPI Keranirhat
+CTG0483,,"Mr. Bazaz Ahmed,Raushan Hat, Murabad, Chandanish, Citation.0171-3623253",22.24577,92.0206,,CP,P2,,GPI Keranirhat
+CTG1901,,"Chomdiya Pukur Par, Satkania, Chittagong",22.06783,92.08092,,CP,P2,,GPI Keranirhat
+CTG0795,,"Md Faridul Alam,Chandpur Central Jame Mosque,Chandpur bazar,Banshkhali,Chittagong",22.15951,91.9151,,CP + DG,P2,,GPI Keranirhat
+CTG0353,,"Keranirhat, Satkania, CTG",22.10379,92.07414,,CP,P1,,GPI Keranirhat
+CTG1263,SG 01825199729 DG room (C) BTS ROOM EJQ 68 Main gate local,Matarbari_CTG_X9029,21.7289,91.90358,,CP + DG + Solar,P1,,GPI Keranirhat
+CTG1347,,"Jotpukuria Bazar,Satkhania,Chittagong",22.09446,92.01215,,CP,P3,,GPI Keranirhat
+CTG1362,,"Vill.+P.O-Belchhari KB Bazar, Bashkhali, Chittagong",22.04848,91.94209,,CP + DG,P1,,GPI Keranirhat
+CTG2969,,2959,22.02880556,92.10688889,,CP,,,GPI Keranirhat
+CTG1374,SG 01832379975 DG room (212),"Napitar Dia, Megname_CTG_X9028",21.80419,91.91862,,CP + DG,P1,,GPI Keranirhat
+CTG2968,,Tewarikhil,22.02816667,92.12402778,,CP,P3,,GPI Keranirhat
+CTG0767,,"Amir Hamja Sawdagor,Kanuram Bazar,Lohagara,Chittagong",21.98556,92.14622,,CP,P2,,GPI Keranirhat
+CTG0786,,"Abeda plaza,Bandarban Bazar ,Bandarban sadar,Bandarban",22.1976,92.21899,,CP,P1 + SCL MH,,GPI Keranirhat
+CTG1273,,"Katharia Bazar,Banshkhali,Chittagong",22.04033,91.91238,,CP,P2,,GPI Keranirhat
+CTG2970,,Dorbesh_hat__Lohagora,22.00787,92.103286,,CP,,,GPI Keranirhat
+CTG2972,,"Lohar Dighi Bus stop, Adhunagar",21.9997515,92.0813815,,CP,,,GPI Keranirhat
+CTG2974,,"Bara Aulia RD ,Charamba",22.021006,92.146227,,CP,,,GPI Keranirhat
+CTG0119,,"KBM Brick Field, Sumoti, Lohagara.Chittagong",21.93595,92.06107,,CP + DG,,,GPI Keranirhat
+CTG0272,,"Vill.-& P.O.-Banigram, P.S.-Bashkhali, Dist. -CTG",22.12042,91.9217,,CP,P2,,GPI Keranirhat
+CTG0486,,"kalir Hat, Chandanish ,CTG",22.19096,91.97576,,CP + DG,P2,,GPI Keranirhat
+CTG1346,,"Vill: Baganpara, P.O: Chunati, P.S: Lohagara, Dist: Chittagong.",21.97221,92.06995,,CP,P2,,GPI Keranirhat
+CTG1353,,Mizarkhil,22.05246,92.04195,,CP,P2,,GPI Keranirhat
+CTG2632,601,"Bharamuhuri, Ward-4",21.75776,92.07131,CXCKRA8,CP,P2,,GPI Keranirhat
+CTG2866,,Shekherkhil 25m land,21.92313889,91.93272222,,CP,P2,,GPI Keranirhat
+CTG2869,,"Kaharghona,Saral",21.99301,91.92614,,CP,,,GPI Keranirhat
+CTG1285,,"M. Char Hat, Lohagara,Chittagong",21.95241,92.12149,,CP,P2,,GPI Keranirhat
+CTG1343,,"Kanchana Bazar,Satkania,Chittagong",22.12772,92.01158,,CP + DG,,,GPI Keranirhat
+CTG1547,,"Kanchan Nagar, Badamtoli, Chandanaish, Chittagong",22.23219,92.02538,,CP,P2,,GPI Keranirhat
+CTG1648,,"Chhanua,Banshkhali,Chittagong.",21.89552,91.91502,,CP + DG,P1,,GPI Keranirhat
+CTG1653,,"Bashirullah Miazirhat, South Ilisha, Bashkhali, Chittagong",22.06501,91.89209,,CP,P1,,GPI Keranirhat
+CTG2874,,"Chhota Chhanua,Chhanua",21.8949,91.93603,,CP,P3,,GPI Keranirhat
+CTG2963,,Senerhat,22.02725,92.05455556,,CP,,,GPI Keranirhat
+CTG3203,,Rashider Ghona,21.9882205,92.054101,,CP,,,GPI Keranirhat
+CTG3386,,Puranghor,23.25449,91.07998,,CP,,,GPI Keranirhat
+CTG0118,,"Thakur dighir bazar, Karaiya nagar,Satkania, Chittagong",22.06957,92.10517,,CP,P2,,GPI Keranirhat
+CTG0159,,Bashkhali,22.00166,91.95323,,CP,P1,,GPI Keranirhat
+CTG0293,,"Dohazari,Chandanais, Chittagong",22.16467,92.06013,,CP + DG,,,GPI Keranirhat
+CTG0787,,Balaghata,22.21401,92.21026,,CP,P2,,GPI Keranirhat
+CTG0788,,Army Para,22.19169,92.21629,,CP,P2,,GPI Keranirhat
+CTG1258,,"Purbo chambol,Banshkhali,Chittagong",21.95775,91.95777,,CP + DG,P2,,GPI Keranirhat
+CTG1259,,"Younus Market, Boiltali, Chandanaish, Chittagong",22.16058,92.00697,,CP + DG,,,GPI Keranirhat
+CTG1261,,"Mosharraf Miar Hat, Bashkhali,Chittagong",22.080361,91.88758,,CP + DG,P2,,GPI Keranirhat
+CTG1342,,"Gasbarea mor,Chandanish,Chittagong",22.2089,92.0323,,CP,P2,,GPI Keranirhat
+CTG1703,,Keajupara,21.92771,92.194643,,CP + DG,,,GPI Keranirhat
+CTG1931,,"Baitul Izzat, Satkania, Chittagong",22.1114,92.1027,,CP,P2,,GPI Keranirhat
+CTG2008,,Nilachal,22.16766,92.21048,,CP + DG,P2,,GPI Keranirhat
+CTG2635,602,Matarbari Power Plant_North Side,21.71289,91.878529,CXMHK57,CP,P2,,GPI Keranirhat
+CTG2636,Digital,Mognamaghat,21.822011,91.914908,CXPKA06,CP,P2,,GPI Keranirhat
+CTG2638,BTS digital,Mogdail Bazar,21.722527,91.886111,CXMHK17,CP,P1,,GPI Keranirhat
+CTG2639,,"MonhajirPara, Matarbari",21.733812,91.89695,CXMHK61,CP,P2,,GPI Keranirhat
+CTG2868,,Chapachori,22.08530556,91.9066389,,CP,,,GPI Keranirhat
+CTG2870,,Niazipara,22.015194,91.950167,,CP,,,GPI Keranirhat
+CTG2871,,Chaparhat,22.10186,91.92908333,,CP,,,GPI Keranirhat
+CTG2872,,Sorol Bazar2,22.02505,91.92533,,CP,,,GPI Keranirhat
+CTG2923,,Ali Nogor Jibon Market,22.09223,92.04659,,CP,,,GPI Keranirhat
+CTG2924,,Mager Para Kaliais,22.06689,92.0276,,CP,,,GPI Keranirhat
+CTG2925,,Rupkania,22.06852,92.06592,,CP,,,GPI Keranirhat
+CTG2926,,Amin Center Bazar,22.163056,92.032389,,CP,,,GPI Keranirhat
+CTG2927,,"Fojul Korim Road, Satkania",22.153936,92.07893,,CP,,,GPI Keranirhat
+CTG2928,,Keochia5,22.10545,92.08633,,CP,,,GPI Keranirhat
+CTG2929,,Bardona,22.04575,92.06513889,,CP,,,GPI Keranirhat
+CTG2930,,Chowdhury Market,22.110977,92.052443,,CP,P3,,GPI Keranirhat
+CTG2953,,Dohajari,22.16191594,92.06722588,,CP,P2,,GPI Keranirhat
+CTG2954,,Satbaria3,22.178473,92.030552,,CP,P3,,GPI Keranirhat
+CTG2955,,Gasbaria_Reloc,22.2164,92.02979,,CP,,,GPI Keranirhat
+CTG2956,,Kanai Madari,22.209352,91.967911,,CP,,,GPI Keranirhat
+CTG2957,,Joara2,22.19895,92.02232,,CP,P3,,GPI Keranirhat
+CTG2966,,Amirabad Master Hat,22.0241,92.0871,,CP,,,GPI Keranirhat
+CTG2967,,Lohagora3_Reloc,22.03313,92.07422,,CP,P3,,GPI Keranirhat
+CTG2971,,Adhunagar_Reloc,21.99051,92.086806,,CP,,,GPI Keranirhat
+CTG2973,,CHUNUTI4,21.9567815,92.068759,,CP,,,GPI Keranirhat
+CTG3104,,Boroghona,21.945759,91.903399,,CP,,,GPI Keranirhat
+CTG3105,,North Puichori,21.91242,91.98171,,CP,P2,,GPI Keranirhat
+CTG3109,,Durduri 25m,22.14738889,91.97430556,,CP,P3,,GPI Keranirhat
+CTG3112,,Haliapara,22.04104,91.89259,,CP,,,GPI Keranirhat
+CTG3114,,Khankhanabad,22.0929,91.86572,,CP,,,GPI Keranirhat
+CTG3116,,Koicher Tag,22.08469,92.02252,,CP,,,GPI Keranirhat
+CTG3118,,West Shadanpur,22.11566,91.91448,,CP,,,GPI Keranirhat
+CTG3119,,Boilchari2,22.0323,91.94647,,CP,P3,,GPI Keranirhat
+CTG3121,,Saral 3,22.02302,91.90186,,CP,P3,,GPI Keranirhat
+CTG3124,,"Dohazari, Chandanaish",22.163782,92.081659,,CP,,,GPI Keranirhat
+CTG3127,,Boilgaon Tea Garden,22.13655,91.94633,,CP,P3,,GPI Keranirhat
+CTG3131,,Ghatiadanga__Satkania,22.11077373,92.0341747,,CP,,,GPI Keranirhat
+CTG3136,,Silkup,21.97714,91.95683,,CP,P2,,GPI Keranirhat
+CTG3202,,"Vill- Aziznagour (Uttorpara), P.O- Aziznagour, PS- Lama, Dist- Bandarban",21.910901,92.063791,,CP,,,GPI Keranirhat
+CTG3233,,Raichata Bazar,22.114,91.87938889,,CP,,,GPI Keranirhat
+CTG3234,,Chechuria Katharia,22.00867,91.92297,,CP,,,GPI Keranirhat
+CTG3380,,"Jamirjuri,Dohazari",22.176406,92.064205,,CP,,,GPI Keranirhat
+CTG3381,,Morfola Bazar,22.137848,92.052766,,CP,,,GPI Keranirhat
+CTG3523,,Purangar 25m land,22.161617,92.12029,,CP,P3,,GPI Keranirhat
+CTG3531,,Pukuria Banshkhali,21.942536,91.93847,,CP,P2,,GPI Keranirhat
+CTG3538,,Paschim Chambol,21.96177,91.935472,,CP,,,GPI Keranirhat
+CTG3539,,Purba Baraghona,21.958893,91.913328,,CP,,,GPI Keranirhat
+CTG3547,,"Baligaon,Ctg",22.140074,91.914083,,CP,,,GPI Keranirhat
+CTG3548,,Keshua_Syed Market Purbo Para,22.187995,91.951389,,CP,,,GPI Keranirhat
+CTG0117,,Chandanaish,22.21128,92.015,,CP,,,GPI Keranirhat
+CTG1900,,Padua,22.04714,92.10745,,CP,P1,,GPI Keranirhat
+CTG2865,,Vill: Gandamara P.S: Banshkhali Dist: Chittagong.,21.9761363,91.8930736,,CP,,,GPI Keranirhat
+CTG3772,WIFI 248218 PA 553273,M_Rahman_Market_IBS,22.0178,92.0974,,CP,P2,,GPI Keranirhat
+CXCKR57,AT Abloy,"Vill: Ulubunia, P.O: Dulahazara P.S: Chakaria, Dist: Cox's Bazar.",21.6689,92.0751,,,,,
+CXCKR59,AT Abloy,"VILL+PO:KAKARA,CHKKARIA,COX'SBAZAR",21.7533,92.1082,,,,,
+CXCKR60,AT Abloy,"Vill: Nij Pankhali, P.O: Chringa, P.S: Chakaria, Dist: Cox's Bazar.",21.7471,92.0785,,,,,
+CXCKR67,AT Abloy,"332 Middle Baharchhara, Saimon Road,Cox's Bazar Sadar,Cox's Bazar",21.4383,91.9725,,,,,
+CXKTD07,,"North Durong, Kutubdia Coxsbazar, Durong",21.8815,91.8569,,,,,
+CXMHK29,Local BTS mobaj EHT 82 MAIN GATE BVT20,"Vill: Putibila, Gorokghata, P.S: Maheshkhali, Dist:Cox's Bazar, Bangladesh.",21.5266,91.958,,,,,
+CXMHK36,Local,"Miajir para, Boro Moheshkhali, Cox's Bazar",21.5377,91.9392,,,,,
+CXPKA16,AT Abloy,"Vill: Taitang Bazar, PO:Mognama, PS: Pekua, Dist: Cox's Bazar",21.8821,91.9722,,,,,
+CXPKA17,Main gate local AT Abloy,"Vill: Matbor para, P.O:& P.S: Pekua, Dist: Cox's Bazar.",21.8318,91.97,,,,,
+CXRMU39,AT Abloy + Local (DG Room),"Vill: Rajarkul, P.S: Ramu Dist: Cox'Bazar.",21.4295,92.097,,,,,
+CXSDR81,AT Abloy,"of Jhilangjha, Police Station- Sadar, District- Cox’s Bazar",21.4446,91.9756,,,,,
+CXSDR85,AT Abloy,"Cox Vacation, Plot#24, Block#C, Kolatoli R/A, Sadar, Cox Bazar",21.4213,91.981,,,,,
+CXSDR91,AT Abloy,"Islam Mansion, Purbo Bazarghata,Main Road, Cox's Bazar Sadar, Cox's Bazar",21.4426,91.9808,,,,,
+CXSDR92,AT Abloy,"Vill.- Eidgaon Palpara, P.S.- Cox's Bazar Sadar, Dist.- Cox's Bazar",21.5592,92.0703,,,,,
+CXSDR93,AT Abloy,"Vill: Dakkhin Rumaliar Chhara, P.S & P.O: Cox's Bazar, Dist: Cox's Bazar.",21.4263,92.0218,,,,,
+CXSDR95,AT Abloy,"Patuli, Machuakhali, Police Station- Cox’s Bazar, District: Cox’s Bazar",21.4473,92.035,,,,,
+CXSDR99,AT Abloy,0,0,0,,,,,
+CXSDRA0,AT Abloy + Local (BTS Room),"Vill - Khurulia Munshir Bill, Cox's Bazar",21.4281,92.0595,,,,,
+CXSDRA7,AT Abloy,"Kuruskul, Uttar Hindupara, Coxsbazar",21.4699,91.9929,,,,,
+CXSDRA9,AT Abloy,"Moddo Tekpara, Cox’s Bazar-4700",21.444,91.985,,,,,
+CXTKN52,AT Abloy,"Shamlapur, Paharchara, Teknaf, Coxsbazar",21.0756,92.1436,,,,,
+CXTKN53,AT Abloy,"Noiabazar, Purbosatgoriapara, Moddom Nela, Taknaf",21.0518,92.2322,,,,,
+CXTKN57,AT Abloy,"Vill.- Phular Dhali, PO- Hilla Bazar, PS- Teknaf, Cox'sbazar",21.0089,92.2516,,,,,
+CXTKN63,AT Abloy,"West Leda, Rangi Khali, Teknaf, Coz Bazar",20.9661,92.2499,,,,,
+CXUKH30,AT Abloy,"South Nidaniya,P.o Inani,P/s Ukhia,Cox'sbazar",21.2478,92.0513,,,,,
+CXUKH32,AT Abloy,"VILL:NALBANAI,PO:MORCHA,PS:UKHIA,COX'SBAZAR",21.3098,92.0995,,,,,
+CXUKH36,AT Abloy,"Vill-Ualapalong, P.O-Ukhia . P.S-Ukhia, Dist- Cox's Bazar",21.245,92.1404,,,,,
+CXUKH37,AT Abloy,"Palangkhali, Balukhali, Ukhia, Coxs Bazar",21.1457,92.1579,,,,,
+BBLMA01,KTBL KEY,"Vill-Isalmpur, Pos-Aziz Nagar, PS- Lama, Dis-Bandorbon",21.898966,92.076542,BBLMA27,MD- Saddam hossen,1825652258,,
+CXCKR1,KTBL KEY,"Vill- Shikder Bari, P.O- Shirigia, PS- Chakaria, Dist- Cox's Bazar",21.767525,92.065021,CTG_Z3102/CXCKRC8,Md. Sayaz,"01717262222, 01845667788",CKR PDB,1789784222
+CXSDR5,KTBL KEY,"Vill: Jhumchori PM Khali Road, Union: Cherangghar, P.S: Cox's Bazar Sador, Dist: Cox's Bazar",21.44815,92.03127,CTG_Z3686,Md. Enamul Hoque-,01733625846/ 01737504066,REB Cox's Sadar,1769401047
+CXSDR09,KTBL KEY,"Vill-Soto Chowdhury para,PO-Varuwa khali,PS-Cox'sbazar,Dist-Cox'sbazar ,Up-Varuwa khali",21.486125,92.049749,CXSDRJ1,Md. Afsar Uddin,01835-337351,REB Varuakhali,1769402633
+CXCKR06,KTBL KEY,"Vill- Middle borytola, Pos-Boroytola, PS-Cokoriya, Dis- Coxbazer",21.819719,92.068451,CXCKRD1,MD- Jubaydul Hok:,1893007320,REB Borytola,1769405872
+CXCKR05,KTBL KEY,"Vill-Azom Nagar,Post- Bodorkhali,Up- Bpdor khali,PS- Cokoriya,Dis- Coxbazer",21.694126,91.966999,CXCKRC6,Md- Shahed Uddin gong,01819020650 / 01859612740,REB ilishiya,1769401059
+CXCKR07,KTBL KEY,"Vill- Sholohicca,Post- Dulhajra,PS- Chokoriya ,Dis- Coxbazer,Sholohicca kendrio Jame moshjid",21.659456,92.061569,CXCKRD2,Mojibul Hok( President),01824857705/ 01756038882,REB Dulahazra,1769401060
+CXRMU03,KTBL KEY,"Vill-Nafiter Chor,Pos-Gorgoniya,PS-Ramu,Dis-Coxbazer",21.438883,92.177161,CXRMUB5,Md- Zaker Ahmmed,1819909347,PDB Gorgonia,1823972561
+CXRMU04,KTBL KEY,"Vill-purbo gowaliya,Pos-Rabata,PS-Ramu,Dis- Coxbazer",21.311191,92.085005,CXRMUB6,MD.Abdul Hakim,01818-522651,REB Ramu cantrorment,1769407245
+CXUKH08,KTBL KEY,"Vill-Ruppoti,Pos-Inani ,PS-Ukhiwa,Dis-Coxbazer",21.171458,92.057324,CXUKH1E,MD.Zafor Alom:,01769-402351 / 01818-100428,REB inani nidaniya,1769402351
+CXUKH12,KTBL KEY,"Vill: Posahim Tuter Bill Baghghona, PO: Ukhia, PS: Ukhia, Coxbazar.",21.256079,92.101156,CXUKH1F,Md. Hannan Chowdhury,1819636659,REB Ukhiya,1769401054
+CXUKH13,KTBL KEY,"Vill: Khoiratipara, PO: Ukhia, PS:Ukhia, DS:Coxbazar",21.239675,92.120162,CXUKH1I,Md. Sirajuddin Chowdhury (Member),01326-555884,REB Ukhiya,1769401054
+CXSDR11,KTBL KEY,"Vill- Islamabad,Pos- Coxbazer ,Ps- Coxbazer ,Dis- Coxbazer",21.426368,91.998478,CXSDRJ0,MD- Kashem,1814305132,PDB Cox's bazar,1784512073
+CXUKH02,KTBL KEY,"Vill : Shabek Rumka Klashpara, Union : Kholdia Palong, P/O : Ratna Palong, P/S : Ukhiya, Dist: Cox's Bazar, Mouza : Rumka",21.288466,92.109528,CXUKH90,Sayed Alom_ Khurshida Begom,01822912791 & 01811274554,REB Ukhiya,1769401054
+CXEDG01,KTBL KEY,"Vill:Yousuferkhali, PO: Islamabad, P.S: Idgah, Dist: Cox's Bazar",21.567758,92.060019,CXSDR12,Md. Anwar Parvej Liton:,01855574454_1817752864,REB Eidgah,1769401050
+CXSDR10,KTBL KEY,"Purbo Bonkatha, Koboshpur, Cox's Bazar Sadar, Cox's Bazar",21.46775,92.005981,CXSDRJ2,MD. Selim Ullah,1616895436,REB Khuruskul,1769401048
+CXUKH03,KTBL KEY,"Vill : Hatirgona,Union : Holudiya,P/O : Ukhiya ,P/S : Ukhiya ,Dist: Cox's Bazar ,Mouza : Rumkhapalong",21.281882,92.119031,CXUKH1J,Ratna Borua,1840400852,REB Valukhiya,1714105874
+CXUKH04,KTBL KEY,"Vill : Lamboripara, P/O : Innani, P/S : Ukhia, Dist: Cox’s Bazar",21.28859,92.081651,CXUKH1K,Bodiul Alam,01819-795050,REB inani nidaniya,1769402351
+CXTKN02,KTBL KEY,"Vill:Lombabil, P.O: Whykong, UP Name: 1 No Whykong, P.S:Teknaf,District:Cox bazar, Mouja name: Moddho Nila",21.100781,92.207308,CXTKNC0,Mst.Khurshida Begum,1568237017 & 01575677564,REB Nila,1769407476
+CXTKN04,KTBL KEY,"Vill- KanJur para,Post-Noyapara,PS-Tecnaf,Dis-Coxbazer,Mowja-Moddho Hinla",21.082574,92.214234,CXTKNC7,MD-Moynul Ahosan:,1817746727,REB Nila,1769407476
+CXTKN03,KTBL KEY,"Mouja name: Uttor Nila,Vill: Galatoli,P.O: Whykong,UP Name: 1 No Whykong,P.S:Teknaf ,District:Cox bazar",21.136366,92.171934,CXTKNC4,Md.Sayed Nur,01820185931 & 01575650709,REB Palonkhali,1769401056
+CXTKN01,KTBL KEY,"Vill: Moheshkhali para, P.O: Teknaf ,UP Name: 2 No Teknaf ,P.S:Teknaf ,District:Cox bazar",20.85609,92.27996,CXTKNB8,Md.Sayedul Islam :,1896431903,REB Teknaf,1769401052
+CXUKH07,KTBL KEY,"Vill: West dorgahbil, PO:Ukhia, PS: Ukhia, Union: 4 no rajapalong,Mouza: Ukhia, Dist: Cox's bazar",21.24912,92.15898,CXUKH1G,Goltaj begam,01858-475443,REB Ukhiya,1769401054
+CXUKH06,KTBL KEY,"Vill- Purbo valukiya,Mowja- Rotna Palong,Pos- Chak boitha,Ps-Ukhiya,Dis- Cox's Bazar",21.295011,92.153535,CXUKH98,Md-Shahab Uddin,8.80E+12,REB Valukhiya,1714105874
+CXUKH05,KTBL KEY,"Vill- Kamariya bil,Pos- Chakbariya,Ps-Ukhiya,Dis- Coxbazer",21.27729,92.137697,CXUKH96,Abdul Gofur,1827518805,REB Valukhiya,1714105874
+CXTKN05,KTBL KEY,"Mouja name- Sabrong,Up- Shabrang,Post-Shabrang,PS-Tecnaf,Dis -Cox bazer",20.812652,92.313452,CXTKNC8,Md- Hamidulla,1812406700,REB Sahporirdin,1703101398
+CXTKN06,KTBL KEY,"Vill-konsuripara, Pos-Sabrang,PS-Teknaf,Dis-Cox's Bazar",20.820627,92.29797,CXTKNC9,MD.Aiyub Ali,1815540812,REB Sahporirdin,1704101398
+CXUKH09,KTBL KEY,"Wala, Ukhiya, Cox's Bazar",21.23397,92.169564,CXUKH99,Bulu Borua,1827954079,REB Ukhiya,1769401054
+CXUKH11,KTBL KEY,"Vill: nol bunia, PO: moriccha palong, PS: Ukhia, Union: 3 no haludia palong, Mouza: Haludia palong, Dist: Cox's bazar",21.297655,92.135027,CXUKH1C,Md Zafar alam,_01857351316/01840076184,REB Valukhiya,1714105874
+CXTKN07,KTBL KEY,"Mowja- Rengor ,Vill- Habir Sorra, Post-Mitha Manik sorta,PS-Technaf,Dis- Coksbazer ,UP- 3 no shodor",20.895616,92.249775,CXTKND0,MD- Kobir Ahmed,1814238806,REB Teknaf,1769401052
+CXTKN10,KTBL KEY,"Uttor Nazirpara, Teknaf, Cox's Bazar",20.85292,92.302645,CXTKNC6,MD- Foridul Alom,01877-965588,REB Teknaf,1769401052
+CXCKR10,KTBL KEY,"Vill:Amirkhali para,Po:Bodorkhali,Mou:Bodorkhali ghona,Ps:Chakaria ,Dis:Cox’s Bazar",21.7075,91.96606,CXCKRD6,Md Nurul Amin,01848-659290 & 01883684602,REB ilishiya,1769401059
+CXCKR08,KTBL KEY,"Vill:Dakshin kakara,Po:Noya bazar,Mou:Kakara,Ps:Chakaria,Dis:Cox’s Bazar; Dakshin kakara jame mosque",21.747297,92.12065,CXCKRD4,Md Soukot Usman (secretary),Shopkeepers beside site-01848267265 01823771766 & 01700920489,REB boroitoli,1714105872
+CXEDG02,KTBL KEY,"Eidgah Rashid Ahmed College,Vill: Mehergona, P/O: EIDGAON, Thana: COX`S Bazar Sadar,Dist.:COX`S Bazar",21.546365,92.07013,"CXEDG01
+ (GP)",Eidgah Rashid Ahmed College,8801815621301,REB Eidgah,1769401050
+CXTKN12,KTBL KEY,"Address-Vill:Purbo gudarbill,Po:Teknaf,Mou:Teknaf,Ps:Teknaf,Dis:Cox’s bazar",20.863016,92.292066,CXTKND6,MD sohid alom,1882082738,REB Teknaf,1769401052
+TKN,Rana 01999081216,"খারাংখালী , NILA",21.045352,92.235473,,,,,
+CKR,Juel 01726318800,"মৌলভীরকম বাজার , চকরিয়া",21.748654,92.076528,,,,,
+COX,"HRIDOY 01401159580 (SOC)
+ MEHEDI 01401159514 (Manager)","বিজিবি ক্যাম্প , সিকদার পাড়া ,",21.43552583,92.00581547,,,,,
+CXCKRD3,STL ABLOY,"Vill: Khuthakhali bazar, Po.Kutakhali, PS.Chakoria, Dist: Coxs Bazar",21.61534,92.06586,SRCXCHK003,,ROBI,,
+CXMHK68 ,STL ABLOY,"Vill:Mukbuki Gonapara, PO: Shaplapur, PS: .Moheshkhali , Dist:CoxsBazar",21.635743,91.976589,SRCXMKH002,,ROBI,,
+CTG0291,STL ABLOY,"Word No. #5,Vill-ShaerKillaGona, P.O – Pekua, P.S - Pekua, Dist-Cox's Bazar",21.831882,91.967959,SBCXPEK001,,BL,,
+CXJLA2,STL ABLOY,"Word No. #5,Vill-ShaerKillaGona, P.O – Pekua, P.S - Pekua, Dist-Cox's Bazar",21.42853,92.03404,SGCXSDR001,,GP,,
+CXKHK5,STL ABLOY,"Vill:Hatkula para, Post:Khuruskul, Union:Khuruskul, Moza: Khuruskul, PS: Cox's Bazar Sadar, Dist: Cox's Bazar.",21.475118,91.980804,SGCXSDR007,,GP,,
+CXBBR1,STL ABLOY Main gate Local in STL office,"Shanti Neer, Bangabondhu Road, Beside Lal Deeghi",21.444519,91.974725,SGCXRMU001,,GP,,
+CXBCH2,STL ABLOY,"168, Mohajer Para, Beside Baharchora Buddhist Temple",21.437322,91.975966,SGCXSDR003,,GP,,
+CXPLC1,STL ABLOY,"Relief International, White House, Bypass Road, PS: Cox's Bazar Sadar, Dist: Cox's Bazar",21.42194,91.99217,SGCXSDR004,,"CXPLC1 (GP)
+CXSDRK0 (ROBI)",,
+CTG0352,Local ,"Marin Drive Road, Kolatoli, Cox's Bazar",21.41368,91.986172,LTCXSDR010B,CXSDR21,BL,,
+CXTKNB0,STL ABLOY,"Vill: NOTUN PALLANPARA, PS: TEKNAF, Dist: COX’S BAZAR",20.871898,92.280529,SBCXTKF004R,,ROBI,,
+CXTKNB9,STL ABLOY,"Vill: Uttar Ali Khali, PO: Rongikhali, PS: Teknaf, Dist: Coxsbazar",20.98017,92.24488,SRCXTKF005,,ROBI,,
+CXTKNC3,STL ABLOY,"Vill.Uttar Lambary, Po.Mithapanir Chara, PS. Teknaf, Dist: Cox’s Bazar.",20.88006,92.2609,SRCXTKF006,,ROBI,,
+CXCRG4,STL ABLOY,"South Kakara, PO: Kakara Naya Bazar, PS: Chokoria, Dist: Cox’s Bazar",21.77004,92.07539,SGCXCHK002,,GP,,
+CXSDRK2,STL ABLOY,"Ucholar Ghona, East Pahartoli, 07 No word, PS: Coxsbazar Sadar, Dist: Coxsbazar",21.43703,91.98746,SRCXSDR012,,ROBI,,
