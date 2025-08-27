@@ -1,33 +1,27 @@
-const csvURL = "https://script.google.com/macros/s/AKfycbz_t4yybWsq3uBT9vD8RznM-fExI8HTpDo-bXBLbHdtfvkFIF2VTLD_ADn7YjKpPcga/exec";
+const jsonURL = "https://script.google.com/macros/s/AKfycbyqbg6VIsqTqiyM57hWg_sGgkUkk9YNMiI0aEbFzaiwAs4FI1PtQIoZzbxv6QgTaUB7/exec";
 
 document.getElementById("searchBtn").addEventListener("click", function() {
     const siteCode = document.getElementById("searchBox").value.trim();
-    if(!siteCode) return alert("Enter Site Code");
+    if(!siteCode) return alert("Enter a Site Code");
 
-    fetch(csvURL)
-      .then(res => res.text())
-      .then(csvText => {
-          const rows = csvText.split("\n").filter(r => r.trim() !== "");
-          const headers = rows[0].split(",").map(h => h.replace(/"/g,"").trim());
-          let found = false;
-          for(let i=1;i<rows.length;i++){
-              const values = rows[i].split(",").map(v=>v.replace(/"/g,"").trim());
-              if(values[0] === siteCode){
-                  found = true;
-                  let html = '';
-                  for(let j=0;j<headers.length;j++){
-                      html += `<p><strong>${headers[j]}:</strong> ${values[j]}</p>`;
+    fetch(`${jsonURL}?site_code=${encodeURIComponent(siteCode)}`)
+      .then(res => res.json())
+      .then(data => {
+          const resultDiv = document.getElementById("result");
+          if(data.ok){
+              let html = '';
+              for(const key in data){
+                  if(key !== 'ok'){
+                      html += `<p><strong>${key}:</strong> ${data[key]}</p>`;
                   }
-                  document.getElementById("result").innerHTML = `<div class="card">${html}</div>`;
-                  break;
               }
-          }
-          if(!found){
-              document.getElementById("result").innerHTML = `<div class="card error">Site Code not found</div>`;
+              resultDiv.innerHTML = `<div class="card">${html}</div>`;
+          } else {
+              resultDiv.innerHTML = `<div class="card error">${data.error}</div>`;
           }
       })
       .catch(err => {
           console.error(err);
-          document.getElementById("result").innerHTML = `<div class="card error">Failed to fetch CSV</div>`;
+          document.getElementById("result").innerHTML = `<div class="card error">Failed to fetch data</div>`;
       });
 });
